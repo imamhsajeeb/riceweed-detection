@@ -1,4 +1,6 @@
 A comprehensive dataset of rice field weed detection from Bangladesh
+https://doi.org/10.1016/j.dib.2024.110981
+
 Abstract: 
 In agricultural research, particularly concerning rice cultivation, the presence of weeds within rice fields is acknowledged as a significant contributor to both diminished crop quality and increased production costs. 
 Rice fields, due to their inherently moist environment, offer ideal conditions for weed proliferation. Traditionally, the control of these weeds has been managed through labor-intensive manual methods. 
